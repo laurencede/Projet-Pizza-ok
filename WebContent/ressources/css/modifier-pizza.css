@@ -1,0 +1,43 @@
+body{
+ 	background : #c2e1ed;
+}
+header{
+	
+	width: 80%;
+	margin: auto;
+	border-bottom: 3px solid #3c9ec4;
+	background-color : #c2e1ed;
+}
+h1{
+	color:#df4800;
+	
+}
+section{
+	width: 50%;
+	background-color: #deeff5;
+	margin: auto;
+	text-align: justif
+	box-shadow: 0px 2px 10px 1px #265184;
+}
+form{
+	width: 400px;
+	margin: auto;
+	padding-top: 5px;
+	padding-bottom: 15px;
+	color: #265184;
+	text-align: center;
+}
+.dim_block{
+	width: 250px;
+	border: none;
+}
+.marge{
+	margin-bottom: 25px;
+}
+.bouton{
+	background-color: #ffae88;
+	border: none;
+	width: 190px;
+	border-radius: 5px;
+	color:#b93d00;
+}

@@ -1,0 +1,29 @@
+header{
+	text-align: center;
+	width: 80%;
+	margin: auto;
+	background: #3c9ec4;
+}
+section{
+	width: 80%;
+	heigth: auto;
+	margin: auto;
+	background-color: #bcdeeb;
+	display: flex;
+	justify-content: center;
+	align-items: center;	
+}
+.element1{
+	text-align: center;
+}
+}
+.element2{
+	width: 400px;	
+}
+img{
+	width: 400px;	
+}
+.bouton{
+	background-color: #d3e9f1;
+	border: none;
+}
